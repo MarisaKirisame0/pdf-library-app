@@ -18,10 +18,10 @@ Time：2021-09-04
 * 高效：功能清晰，记录每次最后阅读
 * 独立：不与任何第三方软件进行交互
 * 兼容：适用于任何Android版本的系统
-* 轻量：
+* 轻量：自身体积小，后期所占空间由添加的PDF文件决定
 * 开源：源码完全开放，可根据需求自定义
 
-开源地址：
+开源地址：[不动的大图书馆：一款简单、高效、开源的PDF电子书架软件](https://gitee.com/marisa-kirisame/a-large-immovable-library)
 
 下载APK：
 
@@ -164,7 +164,7 @@ Time：2021-09-04
 
 使用的外部依赖是：android-pdfview
 
-开源地址：[GitHub - JoanZapata/android-pdfview: [DEPRECATED\] A fast PDF reader component for Android development](https://github.com/JoanZapata/android-pdfview)
+开源地址：[GitHub - JoanZapata/android-pdfview: A fast PDF reader component for Android development](https://github.com/JoanZapata/android-pdfview)
 
 主要用于完成PDF文件的解码、渲染、载入工作。
 
