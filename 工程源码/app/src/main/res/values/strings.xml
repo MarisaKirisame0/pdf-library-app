@@ -1,0 +1,88 @@
+<resources>
+    <!-- Manifest Xml -->
+    <string name="app_name">不动的大图书馆</string>
+
+    <!-- ??? -->
+    <string name="tmp">10</string>
+
+    <!-- Layout Xml -->
+    <string name="catalogue_activity_textView">目录</string>
+    <string name="main_activity_createShellButton">新书架</string>
+    <string name="pdfView_activity_GotoLastPage">上一页</string>
+    <string name="pdfView_activity_catalogue">目录</string>
+    <string name="pdfView_activity_GotoNextPage">下一页</string>
+    <string name="makeShell_alert_editTextTextPersonName">请输入书架名</string>
+    <string name="makeShell_alert_Button">创建</string>
+    <string name="select_alert_button_yes">确认</string>
+    <string name="select_alert_button_no">取消</string>
+    <string name="renameRemove_alert_ReNameButton">Rename</string>
+    <string name="renameRemove_alert_DeleteButton">Delete</string>
+
+    <!--Layout Xml:activity_search_book-->
+    <string name="searchBackText">返回书架</string>
+    <string name="searchAllText">从手机中\n选择文件</string>
+    <string name="searchDocumentText">选文件夹\n搜索文件</string>
+    <string name="explain">
+        \n
+        关于搜索pdf电子书文件的说明：\n
+        \n
+        1.使用上面右侧两个按键进行搜索\n
+        \n
+        2.从手机中选择文件:\n
+          \u3000在手机中选择具体的pdf电子书文件加入书架\n
+          \u3000(进入页面后可用页面导航栏处的搜索器)\n
+        \n
+        3.选文件夹搜索文件:\n
+          \u3000选择相应文件夹,搜索该文件夹下的pdf文件并列出\n
+        \n
+        4.推荐寻找路径：\n
+          \u3000 4-1.从QQ邮箱下载的文件:\n
+          \u3000 /Download/QQMail/ \n
+          \u3000 4-2.从本地浏览器下载的文件:\n
+          \u3000 /Download/browser/ \n
+          \u3000 4-3:.QQ聊天下载的文件:\n
+          \u3000 /com.tencent.mobileqq/Tencent/QQfile_recv/ \n
+    </string>
+
+    <!-- FileManager Class -->
+    <string name="defaultRecentReadShellName">最近阅读</string>
+
+    <!-- ListenerRemoveRenameBook Class -->
+    <string name="renameRemove_alert_textHint">新的名字(不用加后缀)</string>
+    <string name="renameRemove_alert_title">Rename or Delete</string>
+    <string name="delete_alert_title">Remove Operation</string>
+
+    <!-- ListenerRenameRemoveShell Class -->
+    <string name="renameShellTextHint">请输入非空合法文件命名</string>
+
+    <!-- ListenerRemoveRenameRecentRead Class -->
+    <string name="renameRecentReadShellTextHint">请输入书架的新名字</string>
+
+    <!-- ListenerSearchItemClick Class -->
+    <string name="searchItemClick_alert_textView">确认添加吗？</string>
+    <string name="searchItemClick_alert_title">选择电子书加入书架</string>
+
+    <!-- ListenerToolbarOnClick Class -->
+    <string name="developInfo_alert_title">开发者之说(被发现了！？)</string>
+
+    <!-- SearchBookActivity Class -->
+    <string name="AddBookSuccessfully">添加成功！</string>
+
+    <!-- System Error Information -->
+    <string name="LibraryInitError">Error(2001):LibraryInitError</string>
+    <string name="recentReadRecordFileInitError">Error(2002):recentReadRecordFileInitError</string>
+    <string name="ShellCreateFailError">Error(2003):ShellCreateFailError</string>
+    <string name="RemoveError">Error(2004):RemoveError</string>
+    <string name="RenameError">Error(2005):RenameError</string>
+    <string name="AddBookError">Error(2006):AddBookError</string>
+    <string name="uriRecordInitError">Error(2007):uriRecordInitError</string>
+
+    <!-- subtitle -->
+    <string-array name="subtitle">
+        <item>欲戴皇冠，必承其重</item>
+        <item>心之所向，所向披靡</item>
+        <item>欲有所得，必有所失</item>
+        <item>君子力学，昼夜不息</item>
+        <item>千里之行，始于足下</item>
+    </string-array>
+</resources>

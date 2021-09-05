@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="dark">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="moccasin">#FFE4B5</color>
+    <color name="lavender">#E6E6FA</color>
+    <color name="mediumpurple">#9370DB</color>
+    <color name="darkorchid">#9932CC</color>
+    <color name="darkviolet">#9400D3</color>
+</resources>
