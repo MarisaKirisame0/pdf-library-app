@@ -23,7 +23,7 @@ Time：2021-09-04
 
 开源地址：[不动的大图书馆：一款简单、高效、开源的PDF电子书架软件](https://gitee.com/marisa-kirisame/a-large-immovable-library)
 
-下载APK：
+下载APK：https://gitee.com/marisa-kirisame/a-large-immovable-library/blob/master/app-release.apk
 
 
 
