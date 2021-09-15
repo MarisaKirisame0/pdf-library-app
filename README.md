@@ -25,6 +25,8 @@ Time：2021-09-04
 
 下载APK：https://gitee.com/marisa-kirisame/a-large-immovable-library/blob/master/app-release.apk
 
+下载APK(github)：https://github.com/MarisaKirisame0/pdf-library-app/blob/master/app-release.apk
+
 
 
 ## 使用说明
